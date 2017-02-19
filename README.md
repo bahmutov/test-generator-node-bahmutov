@@ -2,8 +2,6 @@
 
 > Test project for generator-node-bahmutov
 
-[![NPM][npm-icon] ][npm-url]
-
 [![Build status][ci-image] ][ci-url]
 [![semantic-release][semantic-image] ][semantic-url]
 [![js-standard-style][standard-image]][standard-url]
